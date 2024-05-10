@@ -3,3 +3,4 @@ sensor.py
 __pycache__
 /venv/
 /00_archive/
+./idea
