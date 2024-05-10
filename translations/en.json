@@ -1,0 +1,22 @@
+{
+  "config": {
+    "title": "Amana Cloud Thermostat",
+    "step": {
+      "user": {
+        "title": "Connect to Amana Cloud",
+        "description": "Please enter your credentials to connect to the Amana Cloud Thermostat.",
+        "data": {
+          "email": "Email Address",
+          "integrator_token": "Integrator Token",
+          "api_key": "Developer API Key"
+        }
+      }
+    },
+    "error": {
+      "auth": "Authentication failed, please check your credentials."
+    },
+    "abort": {
+      "already_configured": "This device is already configured."
+    }
+  }
+}

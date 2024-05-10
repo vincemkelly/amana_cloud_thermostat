@@ -1,0 +1,11 @@
+{
+  "domain": "amana_cloud_thermostat",
+  "name": "Amana Cloud Thermostat",
+  "documentation": "https://www.daikinone.com/openapi/documentation/index.html",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@vincemkelly"],
+  "requirements": ["requests"],
+  "version": "1.0",
+  "icon": "icon.png"
+}
