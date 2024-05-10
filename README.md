@@ -1,0 +1,1 @@
+# amana_cloud_thermostat
