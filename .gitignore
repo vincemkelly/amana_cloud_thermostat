@@ -1,3 +1,5 @@
 # GITIGNORE File
-.sensor.py
-__pycache__ 
+sensor.py
+__pycache__
+/venv/
+/00_archive/
